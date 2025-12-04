@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Md. Rezaul Repon</h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Python | Dashboard Developer</h3>
+<h3 align="center">I’m a passionate **Power BI Data Analyst** with strong experience in  
+**Business Intelligence, DAX, Data Modeling, SQL, Dashboard Design, and Data Analytics**.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MReza07&label=Profile%20Views&color=0e75b6&style=flat" alt="MReza07" />
