@@ -1,77 +1,76 @@
 <h1 align="center">👋 Hi, I'm Md. Rezaul Repon</h1>
-<h3 align="center">Power BI Data Analyst | SQL | Python | BI Reporting</h3>
+<h3 align="center">Data Analyst | Power BI | SQL | Python | Dashboard Developer</h3>
 
 <p align="center">
-  <a href="mailto:reazulrepon@gmail.com">📧 Email</a> •
-  <a href="https://github.com/MReza07">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/">🔗 LinkedIn</a>
+  <img src="https://komarev.com/ghpvc/?username=MReza07&label=Profile%20Views&color=0e75b6&style=flat" alt="MReza07" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m a passionate **Power BI Data Analyst** with strong experience in  
-**Business Intelligence, DAX, Data Modeling, SQL, Dashboard Design, and Data Analytics**.
+I am a **Data Analyst** skilled in **Power BI, SQL, Python**, and **business-focused dashboard development**.  
+I specialize in transforming raw data into interactive dashboards, insightful visualizations, and actionable business insights.
 
-I have completed **12+ end-to-end Power BI projects** covering Financial Analysis, Customer Churn, Telecom KPI, Sales Insight, HR Analytics, and more.  
-I enjoy transforming raw data into **meaningful, actionable insights** that help businesses make better decisions.
-
----
-
-## ⭐ My Core Skills
-
-### 💡 Analytics & BI
-- Power BI (DAX, Data Modeling, ETL with Power Query)
-- KPI Design & Business Reporting
-- Interactive Dashboard Building  
-- Storytelling with Data
-
-### 🛠 Technical Skills  
-- SQL (CTE, Joins, Aggregations, Window Functions)
-- Python (Pandas, Matplotlib, Data Cleaning)
-- Excel (Advanced Formulas & Analysis)
-
-### 📚 Additional Skills  
-- Data Visualization Best Practices  
-- Requirement Gathering  
-- ETL / Data Cleaning  
-- Forecasting & Trend Analysis  
+✔ Power BI Dashboard Developer  
+✔ SQL for Data Cleaning & Modeling  
+✔ Python for Data Analysis  
+✔ DAX, ETL, Data Modeling  
+✔ Strong focus on business KPIs & analytics
 
 ---
 
-## 📌 Featured Projects (Portfolio)
+## 📊 Featured Projects (Pinned)
 
-### 🔹 **1. Financial Performance Dashboard**
-Comprehensive BI dashboard with Sales, Profit, Margin, COGS, Quality Score, YOY/MOM trends.  
-**Tech:** Power BI | DAX  
-👉 Repo: https://github.com/MReza07/Financial-Performance-Dashboard-
+### 🛒 **E-commerce Customer Behavior Analysis**  
+Interactive dashboard analyzing purchase trends, customer segmentation & revenue performance.  
+🔗 Repo: *Add Pin*
 
----
+### 👥 **Customer Churn Analysis**  
+ML-based churn analysis with retention insights & key churn indicators.  
+🔗 Repo: *Add Pin*
 
-### 🔹 **2. Customer Churn Analysis**
-Churn prediction insights, retention KPIs, churn drivers, customer segment behavior.  
-**Tech:** Power BI | DAX  
-👉 Repo: https://github.com/MReza07/Customer-Churn-Analysis
+### 📈 **Financial Performance Dashboard**  
+Full financial analysis including profit margin, COGS, YoY/MoM growth & forecasting.  
+🔗 Repo: *Add Pin*
 
----
+### 🏥 **Hospital Patients Analysis**  
+Healthcare analysis dashboard with treatment outcomes, billing & utilization metrics.  
+🔗 Repo: *Add Pin*
 
-### 🔹 **3. Customer Support Complaint Analysis**
-Tracks SLA, issue types, resolution time, team performance.  
-**Tech:** Power BI  
-👉 Repo: https://github.com/MReza07/Customer-Support-Complaint-Analysis-Power-BI-Dashboard
+### 📞 **Telecom KPI Performance Dashboard**  
+Network performance insights including downtime %, traffic, and customer distribution.  
+🔗 Repo: *Add Pin*
 
----
-
-### 🔹 **4. Telecom KPI Performance Dashboard**
-Analyzes traffic volume, downtime %, network performance KPIs.  
-**Tech:** Power BI  
-👉 Repo: https://github.com/MReza07/Telecom-KPI-Analysis
+### 🛍 **Sales Data Analysis Dashboard**  
+Sales trend analysis, top products, regions & advanced KPIs.  
+🔗 Repo: *Add Pin*
 
 ---
 
-### 🔹 **5. Sales & Marketing Performance Dashboard**
-Sales trend, profitability, product performance, MOM/YOY results.  
-👉 Repo: https://github.com/MReza07/Sales-Data-Analysis
+## 🧰 Skills & Tools
+
+### 🔹 **Data Visualization**
+- Power BI  
+- DAX  
+- Power Query  
+- Dashboard Design  
+- KPI Development
+
+### 🔹 **Database & Querying**
+- SQL (Joins, CTE, Window Functions)  
+- MySQL / SQL Server
+
+### 🔹 **Programming**
+- Python (Pandas, NumPy, Matplotlib)
+
+### 🔹 **Data Modeling & ETL**
+- Star Schema  
+- Data Cleaning  
+- Relationship Modeling
+
+### 🔹 **Other Tools**
+- Excel (Pivot, Power Query)  
+- Git & GitHub
 
 ---
 
@@ -84,20 +83,23 @@ Sales trend, profitability, product performance, MOM/YOY results.
 
 ---
 
-## 🧭 What I’m Looking For
-I’m currently seeking **Remote / Hybrid Data Analyst roles**, especially:
-
-- Power BI Developer  
-- Business Intelligence Analyst  
-- Data Analyst  
-- Reporting Analyst  
+## 🏆 Achievements
+- Completed **12+ Power BI Analytics Projects**
+- Hands-on experience with advanced DAX & data modeling
+- Created dashboards for Ecommerce, Finance, Healthcare, Telecom, Sales, and Customer Analytics
 
 ---
 
 ## 📬 Contact Me
-📧 Email: **reazulrepon@gmail.com**  
-🔗 GitHub: **https://github.com/MReza07**
+📧 **Email:** reazulrepon@gmail.com  
+🔗 **GitHub:** https://github.com/MReza07  
+🌐 **Portfolio (Coming Soon)**  
 
 ---
+
+<h3 align="center">💡 “Turning Data Into Decisions.”</h3>
+
+
+
 
 ⭐ *Thank you for visiting my profile! Feel free to check out my projects and connect with me.*  
