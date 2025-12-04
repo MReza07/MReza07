@@ -47,6 +47,11 @@ Network performance insights including downtime %, traffic, and customer distrib
 ### 🛍 **Sales Data Analysis Dashboard**  
 Sales trend analysis, top products, regions & advanced KPIs.  
 🔗 Repo:https://github.com/MReza07/Sales-Data-Analysis
+
+✅ 6. HR-Data-Analysis
+
+HR analytics, employee insights, attrition analysis, KPI cards — recruiters love HR dashboards.
+🔗 https://github.com/MReza07/HR-Data-Analysis
 ---
 
 ## 🧰 Skills & Tools
