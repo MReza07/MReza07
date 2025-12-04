@@ -33,7 +33,7 @@ Healthcare analysis dashboard with treatment outcomes, billing & utilization met
 
 ### 🛒 **E-commerce Customer Behavior Analysis**  
 Interactive dashboard analyzing purchase trends, customer segmentation & revenue performance.  
-🔗 Repo: *Add Pin*
+🔗 Repo:https://github.com/MReza07/E-commerce-Customer-Behavior-Analysis
 
 ### 👥 **Customer Churn Analysis**  
 ML-based churn analysis with retention insights & key churn indicators.  
