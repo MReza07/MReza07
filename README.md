@@ -21,30 +21,32 @@ I specialize in transforming raw data into interactive dashboards, insightful vi
 
 ## 📊 Featured Projects (Pinned)
 
+### 📈 **Financial Performance Dashboard**  
+Full financial analysis including profit margin, COGS, YoY/MoM growth & forecasting.  
+🔗 Repo:https://github.com/MReza07/Financial-Performance-Dashboard-
+
+
+### 🏥 **Hospital Patients Analysis**  
+Healthcare analysis dashboard with treatment outcomes, billing & utilization metrics.  
+🔗 Repo: https://github.com/MReza07/Hospital-Patients-Analysis
+
+
 ### 🛒 **E-commerce Customer Behavior Analysis**  
 Interactive dashboard analyzing purchase trends, customer segmentation & revenue performance.  
 🔗 Repo: *Add Pin*
 
 ### 👥 **Customer Churn Analysis**  
 ML-based churn analysis with retention insights & key churn indicators.  
-🔗 Repo: *Add Pin*
+🔗 Repo: https://github.com/MReza07/Customer-Churn-Analysis
 
-### 📈 **Financial Performance Dashboard**  
-Full financial analysis including profit margin, COGS, YoY/MoM growth & forecasting.  
-🔗 Repo: *Add Pin*
-
-### 🏥 **Hospital Patients Analysis**  
-Healthcare analysis dashboard with treatment outcomes, billing & utilization metrics.  
-🔗 Repo: *Add Pin*
 
 ### 📞 **Telecom KPI Performance Dashboard**  
 Network performance insights including downtime %, traffic, and customer distribution.  
-🔗 Repo: *Add Pin*
+🔗 Repo:https://github.com/MReza07/Telecom-KPI-Analysis
 
 ### 🛍 **Sales Data Analysis Dashboard**  
 Sales trend analysis, top products, regions & advanced KPIs.  
-🔗 Repo: *Add Pin*
-
+🔗 Repo:https://github.com/MReza07/Sales-Data-Analysis
 ---
 
 ## 🧰 Skills & Tools
