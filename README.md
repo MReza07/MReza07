@@ -80,7 +80,8 @@ Sales trend analysis, top products, regions & advanced KPIs.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MReza07&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MReza07&theme=default)
+/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MReza07&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
