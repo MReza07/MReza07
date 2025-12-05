@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Md. Rezaul Repon</h1>
 <h3 align="center">Power BI | SQL | Python | Data Analyst  </h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourUserName)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=default)
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MReza07&label=Profile%20Views&color=0e75b6&style=flat" alt="MReza07" />
 </p>
