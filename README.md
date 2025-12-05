@@ -61,9 +61,10 @@ https://github.com/MReza07?tab=repositories
 ---
 
 ## 📈 GitHub Stats  
-> If original stats don’t work, use this stable version:
 
-![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MReza07&show_icons=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourUserName)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUserName)
+
 
 ---
 
