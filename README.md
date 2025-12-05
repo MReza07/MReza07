@@ -62,8 +62,9 @@ https://github.com/MReza07?tab=repositories
 
 ## 📈 GitHub Stats  
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourUserName)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUserName)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MReza07)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MReza07)
 
 
 ---
