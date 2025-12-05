@@ -62,8 +62,6 @@ https://github.com/MReza07?tab=repositories
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MReza07&show_icons=true)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MReza07)
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MReza07)
 
