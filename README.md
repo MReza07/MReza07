@@ -83,15 +83,7 @@ Sales trend analysis, top products, regions & advanced KPIs.
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MReza07&theme=default)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MReza07)
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MReza07)
-![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MReza07&show_icons=true)
 
-
-
-<p align="center">
-  <img src="![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MReza07&theme=default)
-/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MReza07&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
