@@ -1,109 +1,77 @@
-<h1 align="center">👋 Hi, I'm Md. Rezaul Repon</h1>
-<h3 align="center">Power BI | SQL | Python | Data Analyst  </h3>
+# 👋 Hi, I'm Reazul Repon  
+### Data Analyst | Power BI | SQL | Python  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MReza07&label=Profile%20Views&color=0e75b6&style=flat" alt="MReza07" />
-</p>
-
----
-
-## 🚀 About Me
-I am a **Data Analyst** skilled in **Power BI, SQL, Python**, and **business-focused dashboard development**.  
-I specialize in transforming raw data into interactive dashboards, insightful visualizations, and actionable business insights.
-
-✔ Power BI Dashboard Developer  
-✔ SQL for Data Cleaning & Modeling  
-✔ Python for Data Analysis  
-✔ DAX, ETL, Data Modeling  
-✔ Strong focus on business KPIs & analytics
+I specialize in transforming raw data into powerful business insights through interactive dashboards, automated reporting, and data modeling.  
+With strong expertise in **Power BI, SQL, and Python**, I build end-to-end analytics solutions that help businesses make data-driven decisions.
 
 ---
 
-## 📊 Featured Projects (Pinned)
-
-### 📈 **Financial Performance Dashboard**  
-Full financial analysis including profit margin, COGS, YoY/MoM growth & forecasting.  
-🔗 Repo:https://github.com/MReza07/Financial-Performance-Dashboard-
-
-
-### 🏥 **Hospital Patients Analysis**  
-Healthcare analysis dashboard with treatment outcomes, billing & utilization metrics.  
-🔗 Repo: https://github.com/MReza07/Hospital-Patients-Analysis
-
-
-### 🛒 **E-commerce Customer Behavior Analysis**  
-Interactive dashboard analyzing purchase trends, customer segmentation & revenue performance.  
-🔗 Repo:https://github.com/MReza07/E-commerce-Customer-Behavior-Analysis
-
-### 👥 **Customer Churn Analysis**  
-ML-based churn analysis with retention insights & key churn indicators.  
-🔗 Repo: https://github.com/MReza07/Customer-Churn-Analysis
-
-
-### 📞 **Telecom KPI Performance Dashboard**  
-Network performance insights including downtime %, traffic, and customer distribution.  
-🔗 Repo:https://github.com/MReza07/Telecom-KPI-Analysis
-
-### 🛍 **Sales Data Analysis Dashboard**  
-Sales trend analysis, top products, regions & advanced KPIs.  
-🔗 Repo:https://github.com/MReza07/Sales-Data-Analysis
+## 🚀 About Me  
+- 🔍 Passionate about data analytics & business intelligence  
+- 📊 Experienced in building professional Power BI dashboards  
+- 🛠 Skilled in SQL (Joins, CTEs, Window Functions)  
+- 🐍 Familiar with Python for data cleaning & analysis  
+- 🎯 Always learning & exploring new data technologies  
+- 💼 Open to remote data analyst roles  
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Skills & Tools  
+### **📊 Business Intelligence**
+- Power BI (DAX, Power Query, Data Modeling)  
+- Interactive Dashboard Development  
+- ETL & Data Cleaning  
 
-### 🔹 **Data Visualization**
-- Power BI  
-- DAX  
-- Power Query  
-- Dashboard Design  
-- KPI Development
+### **🛢 Database & Querying**  
+- SQL Server  
+- MySQL  
+- Complex Queries, CTEs, Window Functions  
 
-### 🔹 **Database & Querying**
-- SQL (Joins, CTE, Window Functions)  
-- MySQL / SQL Server
+### **🐍 Programming**
+- Python (Pandas, NumPy, Matplotlib)  
 
-### 🔹 **Programming**
-- Python (Pandas, NumPy, Matplotlib)
-
-### 🔹 **Data Modeling & ETL**
-- Star Schema  
-- Data Cleaning  
-- Relationship Modeling
-
-### 🔹 **Other Tools**
-- Excel (Pivot, Power Query)  
-- Git & GitHub
+### **📁 Other Tools**
+- MS Excel (Power Query, Pivot Tables)  
+- Git & GitHub  
+- Data Visualization  
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Power BI Projects  
+Here are some of my top dashboards:
 
+### **🏥 Hospital Patients Analysis Dashboard**  
+Insights on patient demographics, treatment outcomes, departments & billing.
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MReza07&theme=default)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MReza07)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MReza07)
+### **👥 HR Data Analysis Dashboard**  
+Attrition insights, employee segmentation, salary analysis & KPIs.
 
+### **💼 Sales Performance Dashboard**  
+Sales trends, profit analysis, product performance & customer insights.
+
+### **🎧 Customer Support Complaint Dashboard**  
+SLA performance, resolution time, complaint categories & team analysis.
+
+### **📦 E-Commerce Sales Dashboard**  
+Order trends, customer insights, regional performance & revenue KPIs.
+
+👉 **See All My Projects:**  
+https://github.com/MReza07?tab=repositories
 
 ---
 
-## 🏆 Achievements
-- Completed **12+ Power BI Analytics Projects**
-- Hands-on experience with advanced DAX & data modeling
-- Created dashboards for Ecommerce, Finance, Healthcare, Telecom, Sales, and Customer Analytics
+## 📈 GitHub Stats  
+> If original stats don’t work, use this stable version:
+
+![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MReza07&show_icons=true)
 
 ---
 
-## 📬 Contact Me
-📧 **Email:** reazulrepon@gmail.com  
-🔗 **GitHub:** https://github.com/MReza07  
-🌐 **Portfolio (Coming Soon)**  
+## 🤝 Connect With Me  
+- **LinkedIn:** *Add your link here*  
+- **Email:** *reazulrepon@gmail.com*  
+- **Portfolio Website:** Coming soon  
 
 ---
 
-<h3 align="center">💡 “Turning Data Into Decisions.”</h3>
-
-
-
-
- 
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or opportunities.*
