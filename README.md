@@ -69,7 +69,7 @@ https://github.com/MReza07?tab=repositories
 ---
 
 ## 🤝 Connect With Me  
-- **LinkedIn:** *Add your link here*  
+- **LinkedIn:** *www.linkedin.com/in/repon07*  
 - **Email:** *reazulrepon@gmail.com*  
 - **Portfolio Website:** Coming soon  
 
